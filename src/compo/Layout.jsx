@@ -29,7 +29,9 @@ function Layout() {
           <li>
             <Link to="/react-site/togglebutton">togglebutton</Link>
           </li>
-
+          <li>
+            <Link to="/react-site/day_0814">Day_0814</Link>
+          </li>
 
         </ul>
       </nav>
